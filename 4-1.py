@@ -1,0 +1,6 @@
+print("Hello Python")
+print("A", "B", "C")
+print("A" + "B" + "C")
+print("One", end=' ')
+print("Two", end=' ')
+print("Three", end=' ')
